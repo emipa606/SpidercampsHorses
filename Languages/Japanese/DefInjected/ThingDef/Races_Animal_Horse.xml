@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Quarter Horse Def -->
+  <QuarterHorse.label>クォーターホース</QuarterHorse.label>
+  <QuarterHorse.description>極めて一般的な馬です。広大な土地を移動するのに最適な旅の仲間になります。まばらな量のエサでも生き残ることができます。</QuarterHorse.description>
+  <QuarterHorse_Leather.label>ウマの皮</QuarterHorse_Leather.label>
+  <QuarterHorse_Leather.description>ウマの皮</QuarterHorse_Leather.description>
+  <QuarterHorse_Leather.stuffProps.stuffAdjective>ウマの皮</QuarterHorse_Leather.stuffProps.stuffAdjective>
+  <QuarterHorse_Meat.label>ウマの肉</QuarterHorse_Meat.label>
+  <QuarterHorse_Meat.description>ウマの肉</QuarterHorse_Meat.description>
+  <QuarterHorse_Corpse.label>ウマの死骸</QuarterHorse_Corpse.label>
+  <QuarterHorse_Corpse.description>ウマの死骸</QuarterHorse_Corpse.description>
+  <!-- Black Horse Def -->
+  <BlackHorse.label>ブラックホース</BlackHorse.label>
+  <BlackHorse.description>丈夫で足が速い馬です。戦いでは恐るべき敵となり同時に活動範囲では優秀な仲間になります。</BlackHorse.description>
+  <BlackHorse_Leather.label>ウマの皮</BlackHorse_Leather.label>
+  <BlackHorse_Leather.description>ウマの皮</BlackHorse_Leather.description>
+  <BlackHorse_Leather.stuffProps.stuffAdjective>ウマの皮</BlackHorse_Leather.stuffProps.stuffAdjective>
+  <BlackHorse_Meat.label>ウマの肉</BlackHorse_Meat.label>
+  <BlackHorse_Meat.description>ウマの肉</BlackHorse_Meat.description>
+  <BlackHorse_Corpse.label>ウマの死骸</BlackHorse_Corpse.label>
+  <BlackHorse_Corpse.description>ウマの死骸</BlackHorse_Corpse.description>
+  <!-- White Horse Def -->
+  <WhiteHorse.label>ホワイトホース</WhiteHorse.label>
+  <WhiteHorse.description>辺境惑星で最も足の速い馬です。せっかちな性格とその美しい外観のために評価されています。</WhiteHorse.description>
+  <WhiteHorse_Leather.label>ウマの皮</WhiteHorse_Leather.label>
+  <WhiteHorse_Leather.description>ウマの皮</WhiteHorse_Leather.description>
+  <WhiteHorse_Leather.stuffProps.stuffAdjective>ウマの皮</WhiteHorse_Leather.stuffProps.stuffAdjective>
+  <WhiteHorse_Meat.label>ウマの肉</WhiteHorse_Meat.label>
+  <WhiteHorse_Meat.description>ウマの肉</WhiteHorse_Meat.description>
+  <WhiteHorse_Corpse.label>ウマの死骸</WhiteHorse_Corpse.label>
+  <WhiteHorse_Corpse.description>ウマの死骸</WhiteHorse_Corpse.description>
+  <!-- Palomino Horse Def -->
+  <Palomino.label>パロミノホース</Palomino.label>
+  <Palomino.description>月毛色の毛並みを持つ信じられないほど美しい馬です。見せびらかす為として大変裕福なコロニーの中で飼われる事があります。意外な事にたいへん長い旅路で役に立ちますが大量のエサが必要です。</Palomino.description>
+  <Palomino_Leather.label>ウマの皮</Palomino_Leather.label>
+  <Palomino_Leather.description>ウマの皮</Palomino_Leather.description>
+  <Palomino_Leather.stuffProps.stuffAdjective>ウマの皮</Palomino_Leather.stuffProps.stuffAdjective>
+  <Palomino_Meat.label>ウマの肉</Palomino_Meat.label>
+  <Palomino_Meat.description>ウマの肉</Palomino_Meat.description>
+  <Palomino_Corpse.label>ウマの死骸</Palomino_Corpse.label>
+  <Palomino_Corpse.description>ウマの死骸</Palomino_Corpse.description>
+</LanguageData>

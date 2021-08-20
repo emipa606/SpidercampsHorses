@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Quarter Horse Def -->
+  <QuarterHorse.label>クォーターホース</QuarterHorse.label>
+  <QuarterHorse.labelPlural>クォーターホースたち</QuarterHorse.labelPlural>
+  <QuarterHorse.lifeStages.0.label>クォーターホースの仔馬</QuarterHorse.lifeStages.0.label>
+  <QuarterHorse.lifeStages.0.labelPlural>クォーターホースの仔馬たち</QuarterHorse.lifeStages.0.labelPlural>
+  <QuarterHorse.lifeStages.0.labelMale>男性 クォーターホースの仔馬</QuarterHorse.lifeStages.0.labelMale>
+  <QuarterHorse.lifeStages.0.labelMalePlural>男性 クォーターホースの仔馬たち</QuarterHorse.lifeStages.0.labelMalePlural>
+  <QuarterHorse.lifeStages.0.labelFemale>女性 クォーターホースの仔馬</QuarterHorse.lifeStages.0.labelFemale>
+  <QuarterHorse.lifeStages.0.labelFemalePlural>女性 quarterの仔馬たち</QuarterHorse.lifeStages.0.labelFemalePlural>
+  <QuarterHorse.lifeStages.1.label>クォーターホースの若馬</QuarterHorse.lifeStages.1.label>
+  <QuarterHorse.lifeStages.1.labelPlural>クォーターホースの若馬</QuarterHorse.lifeStages.1.labelPlural>
+  <QuarterHorse.lifeStages.1.labelMale>男性 クォーターホースの若馬</QuarterHorse.lifeStages.1.labelMale>
+  <QuarterHorse.lifeStages.1.labelMalePlural>男性 クォーターホースの若馬たち</QuarterHorse.lifeStages.1.labelMalePlural>
+  <QuarterHorse.lifeStages.1.labelFemale>女性 クォーターホースの若馬</QuarterHorse.lifeStages.1.labelFemale>
+  <QuarterHorse.lifeStages.1.labelFemalePlural>女性 クォーターホースの若馬たち</QuarterHorse.lifeStages.1.labelFemalePlural>
+  <QuarterHorse.lifeStages.2.label>クォーターホース</QuarterHorse.lifeStages.2.label>
+  <QuarterHorse.lifeStages.2.labelPlural>クォーターホース</QuarterHorse.lifeStages.2.labelPlural>
+  <QuarterHorse.lifeStages.2.labelMale>男性 クォーターホース</QuarterHorse.lifeStages.2.labelMale>
+  <QuarterHorse.lifeStages.2.labelMalePlural>男性 クォーターホースたち</QuarterHorse.lifeStages.2.labelMalePlural>
+  <QuarterHorse.lifeStages.2.labelFemale>女性 クォーターホース</QuarterHorse.lifeStages.2.labelFemale>
+  <QuarterHorse.lifeStages.2.labelFemalePlural>女性 クォーターホースたち</QuarterHorse.lifeStages.2.labelFemalePlural>
+  <QuarterHorse.labelMale>男性 クォーターホース</QuarterHorse.labelMale>
+  <QuarterHorse.labelMalePlural>男性 クォーターホースたち</QuarterHorse.labelMalePlural>
+  <QuarterHorse.labelFemale>女性 クォーターホース</QuarterHorse.labelFemale>
+  <QuarterHorse.labelFemalePlural>女性 クォーターホースたち</QuarterHorse.labelFemalePlural>
+  <!-- Black Horse Def -->
+  <BlackHorse.label>ブラックホース</BlackHorse.label>
+  <BlackHorse.labelPlural>ブラックホースたち</BlackHorse.labelPlural>
+  <BlackHorse.lifeStages.0.label>ブラックホースの仔馬</BlackHorse.lifeStages.0.label>
+  <BlackHorse.lifeStages.0.labelPlural>ブラックホースの仔馬たち</BlackHorse.lifeStages.0.labelPlural>
+  <BlackHorse.lifeStages.0.labelMale>男性 ブラックホースの仔馬</BlackHorse.lifeStages.0.labelMale>
+  <BlackHorse.lifeStages.0.labelMalePlural>男性 ブラックホースの仔馬たち</BlackHorse.lifeStages.0.labelMalePlural>
+  <BlackHorse.lifeStages.0.labelFemale>女性 ブラックホースの仔馬</BlackHorse.lifeStages.0.labelFemale>
+  <BlackHorse.lifeStages.0.labelFemalePlural>女性 ブラックホースの仔馬たち</BlackHorse.lifeStages.0.labelFemalePlural>
+  <BlackHorse.lifeStages.1.label>ブラックホースの若馬</BlackHorse.lifeStages.1.label>
+  <BlackHorse.lifeStages.1.labelPlural>ブラックホースの若馬たち</BlackHorse.lifeStages.1.labelPlural>
+  <BlackHorse.lifeStages.1.labelMale>男性 ブラックホースの若馬</BlackHorse.lifeStages.1.labelMale>
+  <BlackHorse.lifeStages.1.labelMalePlural>男性 ブラックホースの若馬たち</BlackHorse.lifeStages.1.labelMalePlural>
+  <BlackHorse.lifeStages.1.labelFemale>女性 ブラックホースの若馬</BlackHorse.lifeStages.1.labelFemale>
+  <BlackHorse.lifeStages.1.labelFemalePlural>女性 ブラックホースの若馬たち</BlackHorse.lifeStages.1.labelFemalePlural>
+  <BlackHorse.lifeStages.2.label>ブラックホース</BlackHorse.lifeStages.2.label>
+  <BlackHorse.lifeStages.2.labelPlural>ブラックホース</BlackHorse.lifeStages.2.labelPlural>
+  <BlackHorse.lifeStages.2.labelMale>男性 ブラックホース</BlackHorse.lifeStages.2.labelMale>
+  <BlackHorse.lifeStages.2.labelMalePlural>男性 ブラックホースたち</BlackHorse.lifeStages.2.labelMalePlural>
+  <BlackHorse.lifeStages.2.labelFemale>女性 ブラックホース</BlackHorse.lifeStages.2.labelFemale>
+  <BlackHorse.lifeStages.2.labelFemalePlural>女性 ブラックホースたち</BlackHorse.lifeStages.2.labelFemalePlural>
+  <BlackHorse.labelMale>男性 ブラックホース</BlackHorse.labelMale>
+  <BlackHorse.labelMalePlural>男性 ブラックホースたち</BlackHorse.labelMalePlural>
+  <BlackHorse.labelFemale>女性 ブラックホース</BlackHorse.labelFemale>
+  <BlackHorse.labelFemalePlural>女性 ブラックホースたち</BlackHorse.labelFemalePlural>
+  <!-- White Horse Def -->
+  <WhiteHorse.label>ホワイトホース</WhiteHorse.label>
+  <WhiteHorse.labelPlural>ホワイトホースたち</WhiteHorse.labelPlural>
+  <WhiteHorse.lifeStages.0.label>ホワイトホースの仔馬</WhiteHorse.lifeStages.0.label>
+  <WhiteHorse.lifeStages.0.labelPlural>ホワイトホースの仔馬たち</WhiteHorse.lifeStages.0.labelPlural>
+  <WhiteHorse.lifeStages.0.labelMale>男性 ホワイトホースの仔馬</WhiteHorse.lifeStages.0.labelMale>
+  <WhiteHorse.lifeStages.0.labelMalePlural>男性 ホワイトホースの仔馬たち</WhiteHorse.lifeStages.0.labelMalePlural>
+  <WhiteHorse.lifeStages.0.labelFemale>女性 ホワイトホースの仔馬</WhiteHorse.lifeStages.0.labelFemale>
+  <WhiteHorse.lifeStages.0.labelFemalePlural>女性 ホワイトホースの仔馬たち</WhiteHorse.lifeStages.0.labelFemalePlural>
+  <WhiteHorse.lifeStages.1.label>ホワイトホースの若馬</WhiteHorse.lifeStages.1.label>
+  <WhiteHorse.lifeStages.1.labelPlural>ホワイトホースの若馬</WhiteHorse.lifeStages.1.labelPlural>
+  <WhiteHorse.lifeStages.1.labelMale>男性 ホワイトホースの若馬</WhiteHorse.lifeStages.1.labelMale>
+  <WhiteHorse.lifeStages.1.labelMalePlural>男性 ホワイトホースの若馬たち</WhiteHorse.lifeStages.1.labelMalePlural>
+  <WhiteHorse.lifeStages.1.labelFemale>女性 ホワイトホースの若馬</WhiteHorse.lifeStages.1.labelFemale>
+  <WhiteHorse.lifeStages.1.labelFemalePlural>女性 ホワイトホースの若馬たち</WhiteHorse.lifeStages.1.labelFemalePlural>
+  <WhiteHorse.lifeStages.2.label>ホワイトホース</WhiteHorse.lifeStages.2.label>
+  <WhiteHorse.lifeStages.2.labelPlural>ホワイトホース</WhiteHorse.lifeStages.2.labelPlural>
+  <WhiteHorse.lifeStages.2.labelMale>男性 ホワイトホース</WhiteHorse.lifeStages.2.labelMale>
+  <WhiteHorse.lifeStages.2.labelMalePlural>男性 ホワイトホースたち</WhiteHorse.lifeStages.2.labelMalePlural>
+  <WhiteHorse.lifeStages.2.labelFemale>女性 ホワイトホース</WhiteHorse.lifeStages.2.labelFemale>
+  <WhiteHorse.lifeStages.2.labelFemalePlural>女性 ホワイトホースたち</WhiteHorse.lifeStages.2.labelFemalePlural>
+  <WhiteHorse.labelMale>男性 ホワイトホース</WhiteHorse.labelMale>
+  <WhiteHorse.labelMalePlural>男性 ホワイトホースたち</WhiteHorse.labelMalePlural>
+  <WhiteHorse.labelFemale>女性 ホワイトホース</WhiteHorse.labelFemale>
+  <WhiteHorse.labelFemalePlural>女性 ホワイトホースたち</WhiteHorse.labelFemalePlural>
+  <!-- Palomino Horse Def -->
+  <Palomino.label>パロミノホース</Palomino.label>
+  <Palomino.labelPlural>パロミノホースたち</Palomino.labelPlural>
+  <Palomino.lifeStages.0.label>パロミノホースの仔馬</Palomino.lifeStages.0.label>
+  <Palomino.lifeStages.0.labelPlural>パロミノホースの仔馬たち</Palomino.lifeStages.0.labelPlural>
+  <Palomino.lifeStages.0.labelMale>男性 パロミノホースの仔馬</Palomino.lifeStages.0.labelMale>
+  <Palomino.lifeStages.0.labelMalePlural>男性 パロミノホースの仔馬たち</Palomino.lifeStages.0.labelMalePlural>
+  <Palomino.lifeStages.0.labelFemale>女性 パロミノホースの仔馬</Palomino.lifeStages.0.labelFemale>
+  <Palomino.lifeStages.0.labelFemalePlural>女性 パロミノホースの仔馬たち</Palomino.lifeStages.0.labelFemalePlural>
+  <Palomino.lifeStages.1.label>パロミノホースの若馬</Palomino.lifeStages.1.label>
+  <Palomino.lifeStages.1.labelPlural>パロミノホースの若馬</Palomino.lifeStages.1.labelPlural>
+  <Palomino.lifeStages.1.labelMale>男性 パロミノホースの若馬</Palomino.lifeStages.1.labelMale>
+  <Palomino.lifeStages.1.labelMalePlural>男性 パロミノホースの若馬たち</Palomino.lifeStages.1.labelMalePlural>
+  <Palomino.lifeStages.1.labelFemale>女性 パロミノホースの若馬</Palomino.lifeStages.1.labelFemale>
+  <Palomino.lifeStages.1.labelFemalePlural>女性 パロミノホースの若馬たち</Palomino.lifeStages.1.labelFemalePlural>
+  <Palomino.lifeStages.2.label>パロミノホース</Palomino.lifeStages.2.label>
+  <Palomino.lifeStages.2.labelPlural>パロミノホース</Palomino.lifeStages.2.labelPlural>
+  <Palomino.lifeStages.2.labelMale>男性 パロミノホース</Palomino.lifeStages.2.labelMale>
+  <Palomino.lifeStages.2.labelMalePlural>男性 パロミノホースたち</Palomino.lifeStages.2.labelMalePlural>
+  <Palomino.lifeStages.2.labelFemale>女性 パロミノホース</Palomino.lifeStages.2.labelFemale>
+  <Palomino.lifeStages.2.labelFemalePlural>女性 パロミノホースたち</Palomino.lifeStages.2.labelFemalePlural>
+  <Palomino.labelMale>男性 パロミノホース</Palomino.labelMale>
+  <Palomino.labelMalePlural>男性 パロミノホースたち</Palomino.labelMalePlural>
+  <Palomino.labelFemale>女性 パロミノホース</Palomino.labelFemale>
+  <Palomino.labelFemalePlural>女性 パロミノホースたち</Palomino.labelFemalePlural>
+</LanguageData>

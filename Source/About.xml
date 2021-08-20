@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modMetaData>
+  <name>Spidercamp's Horses</name>
+  <author>Spidercamp</author>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageid>SpiderCamp.SpiderCampHorses</packageid>
+  <description>Brings horses to the rim.
+
+ Features:
+ Horses are fast and strong fighters
+ Some horses are beautiful and improve the beauty of the surrounding area.
+ All horses have advanced trainable intelligence.
+ 
+ Optional Features:
+ Patched for (and recommended in conjunction with) with Giddy-up Core/Combat: http://steamcommunity.com/sharedfiles/filedetails/?id=1216999901
+ Patched for A Dog Said
+ 
+  </description>
+</modMetaData>
