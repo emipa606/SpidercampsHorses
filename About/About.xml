@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Spidercamp's Horses (Continued)</name>
   <packageId>Mlie.SpidercampsHorses</packageId>
@@ -14,13 +14,13 @@
   <loadAfter>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Spidercamps mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1233906319
 
-- Included an updated version of the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1735414804]CE-patch[/url] by rebelscum
+- [strike]Included an updated version of the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1735414804]CE-patch[/url] by rebelscum[/strike] CE-patches now included in the main CE-mod instead
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
@@ -29,7 +29,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1233906319
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 1.1 - Amazing news! As of 1.1 horses are part of the vanilla game! The vanilla update doesn't have horses with varying stats, so I've updated this mod so that you can keep some diversity in your equine pals. This mod doesn't replace the in-game horses, but instead treats the vanilla horse as the lowest level horse in the game. The horses in this mod all have stats that vary from the vanilla horses in different ways, like strength, speed, and how much they eat. And yes, SC horses have kept the signature skin you guys have bonded with! 
 
 I would like some ideas on what direction you would like this mod to take. Should I update the mod to have actual breeds? Should I reskin them to something a little more unique to each type? I don't do much custom dev work so please keep ideas confined to stat changes and skins. 
@@ -60,7 +60,7 @@ Please note - this mod is about as close to the vanilla game as you can get. Man
 B18 File: https://www.dropbox.com/sh/2z8hjae5ne57tih/AAAvVXXbd_mx_3GkQ66TbmNfa?dl=0
 B19 File: https://www.dropbox.com/sh/56eim3msj419gcp/AACcKLu-yfUVC80qNm9hIPKKa?dl=0
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -71,4 +71,3 @@ B19 File: https://www.dropbox.com/sh/56eim3msj419gcp/AACcKLu-yfUVC80qNm9hIPKKa?d
 [/list]
 </description>
 </ModMetaData>
-

@@ -1,16 +1,16 @@
 # SpidercampsHorses
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Spidercamps mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1233906319
 
-- Included an updated version of the https://steamcommunity.com/sharedfiles/filedetails/?id=1735414804]CE-patch by rebelscum
+- [strike]Included an updated version of the https://steamcommunity.com/sharedfiles/filedetails/?id=1735414804]CE-patch by rebelscum[/strike] CE-patches now included in the main CE-mod instead
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 1.1 - Amazing news! As of 1.1 horses are part of the vanilla game! The vanilla update doesn't have horses with varying stats, so I've updated this mod so that you can keep some diversity in your equine pals. This mod doesn't replace the in-game horses, but instead treats the vanilla horse as the lowest level horse in the game. The horses in this mod all have stats that vary from the vanilla horses in different ways, like strength, speed, and how much they eat. And yes, SC horses have kept the signature skin you guys have bonded with! 
 
@@ -42,7 +42,7 @@ Please note - this mod is about as close to the vanilla game as you can get. Man
 B18 File: https://www.dropbox.com/sh/2z8hjae5ne57tih/AAAvVXXbd_mx_3GkQ66TbmNfa?dl=0
 B19 File: https://www.dropbox.com/sh/56eim3msj419gcp/AACcKLu-yfUVC80qNm9hIPKKa?dl=0
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>29fce618-6cd7-4236-a7f3-25fb4ad69527</ID>
   <ModName>Spidercamp's Horses (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
