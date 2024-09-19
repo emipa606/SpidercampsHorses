@@ -1,14 +1,13 @@
-# SpidercampsHorses
+# [Spidercamp's Horses (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2580255266)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Spidercamps mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1233906319
 
-- [strike]Included an updated version of the https://steamcommunity.com/sharedfiles/filedetails/?id=1735414804]CE-patch by rebelscum[/strike] CE-patches now included in the main CE-mod instead
+- ~~Included an updated version of the [CE-patch](https://steamcommunity.com/sharedfiles/filedetails/?id=1735414804) by rebelscum~~ CE-patches now included in the main CE-mod instead
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -48,13 +47,12 @@ B19 File: https://www.dropbox.com/sh/56eim3msj419gcp/AACcKLu-yfUVC80qNm9hIPKKa?d
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
 
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2580255266]![Image](https://img.shields.io/github/v/release/emipa606/SpidercampsHorses?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/SpidercampsHorses?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2580255266)
