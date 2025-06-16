@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: black horse -->
+  <SCBlackHorse.label>black horse</SCBlackHorse.label>
+  <!-- EN: A strong, fast horse. Makes a formidable foe in combat and an excellent companion on the range. -->
+  <SCBlackHorse.description>A strong, fast horse. Makes a formidable foe in combat and an excellent companion on the range.</SCBlackHorse.description>
+  <!-- EN: horse meat -->
+  <SCBlackHorse.race.meatLabel>horse meat</SCBlackHorse.race.meatLabel>
+  <!-- EN: head -->
+  <SCBlackHorse.tools.head.label>head</SCBlackHorse.tools.head.label>
+  <!-- EN: left hoof -->
+  <SCBlackHorse.tools.left_hoof.label>left hoof</SCBlackHorse.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <SCBlackHorse.tools.right_hoof.label>right hoof</SCBlackHorse.tools.right_hoof.label>
+  <!-- EN: palomino -->
+  <SCPalomino.label>palomino</SCPalomino.label>
+  <!-- EN: An incredibly beautiful horse which is slightly faster than an average horse. Kept by more wealthy colonies as a show item. Not exceptionally helpful on long voyages and eats a lot. -->
+  <SCPalomino.description>An incredibly beautiful horse which is slightly faster than an average horse. Kept by more wealthy colonies as a show item. Not exceptionally helpful on long voyages and eats a lot.</SCPalomino.description>
+  <!-- EN: horse meat -->
+  <SCPalomino.race.meatLabel>horse meat</SCPalomino.race.meatLabel>
+  <!-- EN: head -->
+  <SCPalomino.tools.head.label>head</SCPalomino.tools.head.label>
+  <!-- EN: left hoof -->
+  <SCPalomino.tools.left_hoof.label>left hoof</SCPalomino.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <SCPalomino.tools.right_hoof.label>right hoof</SCPalomino.tools.right_hoof.label>
+  <!-- EN: quarter horse -->
+  <SCQuarterHorse.label>quarter horse</SCQuarterHorse.label>
+  <!-- EN: A common horse. Makes a good companion for crossing large swaths of land. Can survive off sparse amounts of food. -->
+  <SCQuarterHorse.description>A common horse. Makes a good companion for crossing large swaths of land. Can survive off sparse amounts of food.</SCQuarterHorse.description>
+  <!-- EN: horse meat -->
+  <SCQuarterHorse.race.meatLabel>horse meat</SCQuarterHorse.race.meatLabel>
+  <!-- EN: head -->
+  <SCQuarterHorse.tools.head.label>head</SCQuarterHorse.tools.head.label>
+  <!-- EN: left hoof -->
+  <SCQuarterHorse.tools.left_hoof.label>left hoof</SCQuarterHorse.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <SCQuarterHorse.tools.right_hoof.label>right hoof</SCQuarterHorse.tools.right_hoof.label>
+  <!-- EN: white horse -->
+  <SCWhiteHorse.label>white horse</SCWhiteHorse.label>
+  <!-- EN: The fastest horse in the rim. Valued for its quick nature and its beautiful looks. -->
+  <SCWhiteHorse.description>The fastest horse in the rim. Valued for its quick nature and its beautiful looks.</SCWhiteHorse.description>
+  <!-- EN: horse meat -->
+  <SCWhiteHorse.race.meatLabel>horse meat</SCWhiteHorse.race.meatLabel>
+  <!-- EN: head -->
+  <SCWhiteHorse.tools.head.label>head</SCWhiteHorse.tools.head.label>
+  <!-- EN: left hoof -->
+  <SCWhiteHorse.tools.left_hoof.label>left hoof</SCWhiteHorse.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <SCWhiteHorse.tools.right_hoof.label>right hoof</SCWhiteHorse.tools.right_hoof.label>
+</LanguageData>

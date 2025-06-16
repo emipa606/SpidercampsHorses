@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: black horse -->
+  <SCBlackHorse.label>black horse</SCBlackHorse.label>
+  <!-- EN: mare -->
+  <SCBlackHorse.labelFemale>mare</SCBlackHorse.labelFemale>
+  <!-- EN: stallion -->
+  <SCBlackHorse.labelMale>stallion</SCBlackHorse.labelMale>
+  <!-- EN: black foal -->
+  <SCBlackHorse.lifeStages.black_foal.label>black foal</SCBlackHorse.lifeStages.black_foal.label>
+  <!-- EN: black foals -->
+  <SCBlackHorse.lifeStages.black_foal.labelPlural>black foals</SCBlackHorse.lifeStages.black_foal.labelPlural>
+  <!-- EN: palomino -->
+  <SCPalomino.label>palomino</SCPalomino.label>
+  <!-- EN: mare -->
+  <SCPalomino.labelFemale>mare</SCPalomino.labelFemale>
+  <!-- EN: stallion -->
+  <SCPalomino.labelMale>stallion</SCPalomino.labelMale>
+  <!-- EN: palomino foal -->
+  <SCPalomino.lifeStages.palomino_foal.label>palomino foal</SCPalomino.lifeStages.palomino_foal.label>
+  <!-- EN: palomino foals -->
+  <SCPalomino.lifeStages.palomino_foal.labelPlural>palomino foals</SCPalomino.lifeStages.palomino_foal.labelPlural>
+  <!-- EN: quarter horse -->
+  <SCQuarterHorse.label>quarter horse</SCQuarterHorse.label>
+  <!-- EN: mare -->
+  <SCQuarterHorse.labelFemale>mare</SCQuarterHorse.labelFemale>
+  <!-- EN: stallion -->
+  <SCQuarterHorse.labelMale>stallion</SCQuarterHorse.labelMale>
+  <!-- EN: quarter horse foal -->
+  <SCQuarterHorse.lifeStages.quarter_horse_foal.label>quarter horse foal</SCQuarterHorse.lifeStages.quarter_horse_foal.label>
+  <!-- EN: white horse -->
+  <SCWhiteHorse.label>white horse</SCWhiteHorse.label>
+  <!-- EN: mare -->
+  <SCWhiteHorse.labelFemale>mare</SCWhiteHorse.labelFemale>
+  <!-- EN: stallion -->
+  <SCWhiteHorse.labelMale>stallion</SCWhiteHorse.labelMale>
+  <!-- EN: white foal -->
+  <SCWhiteHorse.lifeStages.white_foal.label>white foal</SCWhiteHorse.lifeStages.white_foal.label>
+  <!-- EN: white foals -->
+  <SCWhiteHorse.lifeStages.white_foal.labelPlural>white foals</SCWhiteHorse.lifeStages.white_foal.labelPlural>
+</LanguageData>
